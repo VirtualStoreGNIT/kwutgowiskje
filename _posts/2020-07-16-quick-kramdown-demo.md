@@ -5,7 +5,7 @@ description: "A quick demo post to some kramdown features."
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
-  - /2017/05/25/
+  - /2020/07/16/
 ---
 
 > This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
